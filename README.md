@@ -1,7 +1,6 @@
 ### Hello World! 🤗
 
-<br />
-**It's ME!!!!**
+<br />It's ME!!!!
 <br />
 <code><img height="400" src="https://user-images.githubusercontent.com/101498350/189495158-82952cba-8faf-4da7-896d-9bdc34508c97.jpg"></code>
 <br />
