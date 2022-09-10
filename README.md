@@ -1,6 +1,9 @@
 ### Hello World! 🤗
 
 <br />
+**It's ME!!!!**
+<br />
+![KakaoTalk_20220911_023418146](https://user-images.githubusercontent.com/101498350/189495158-82952cba-8faf-4da7-896d-9bdc34508c97.jpg)
 <br />
 
 Hi! I'm One ( or Hye Won )!<br />
