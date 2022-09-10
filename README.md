@@ -3,8 +3,9 @@
 <br />
 <br />
 
-Hi! I'm One ( or Hye Won )!
-I'm Live in SeonNam, Korea 🇰🇷
+Hi! I'm One ( or Hye Won )!<br />
+I'm live in SeongNam, Korea.<br />
+I am majoring in artificial intelligence at Gachon University. Now I'm interested in front development and project manage!
 
 
 **Languages and Tools:** 
