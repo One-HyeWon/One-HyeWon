@@ -1,18 +1,3 @@
-### Hello World! 🤗
-
-<br />
-👋It's ME!!!!👋
-<br /> <br />
-<code><img height="400" src="https://user-images.githubusercontent.com/101498350/189495158-82952cba-8faf-4da7-896d-9bdc34508c97.jpg"></code>
-<br />
-<br />
-
-Hi! I'm One ( or Hye Won )!<br />
-I'm live in SeongNam, Korea.<br /><br />
-I am majoring in artificial intelligence at Gachon University. Now I'm interested in front development and project manage!
-
-<br />
-
 **Languages and Tools:** 
 <br />
 
