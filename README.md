@@ -1,18 +1,4 @@
-### GitHub Stats
 
-![One-HyeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=One-HyeWon&theme=solarized-light&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One-HyeWon&theme=solarized-light&layout=compact)
-
-<br/>
-
-### Main Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leets-2nd-Email&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=WeNeed-FE&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leetalk-FE&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=MoodMate-FE&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=level2-objectdetection-cv-13&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=level2-cv-semanticsegmentation-cv-8-lv3&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Languages and Tools:** 
