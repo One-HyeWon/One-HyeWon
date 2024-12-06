@@ -1,3 +1,14 @@
+### GitHub Stats
+
+![One-HyeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=One-HyeWon&theme=solarized-light&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One-HyeWon&theme=solarized-light&layout=compact)
+
+<br/>
+
+### Main Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leets-2nd-Email)](https://github.com/anuraghazra/github-readme-stats)
+
 **Languages and Tools:** 
 <br />
 
