@@ -7,10 +7,10 @@
 
 ### Main Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leets-2nd-Email)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=WeNeed-FE)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leetalk-FE)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=MoodMate-FE)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leets-2nd-Email&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=WeNeed-FE&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leetalk-FE&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=level2-objectdetection-cv-13&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Languages and Tools:** 
