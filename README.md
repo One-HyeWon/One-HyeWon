@@ -19,7 +19,7 @@
 ### 📊 GitHubStats
 
 ![One-HyeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=One-HyeWon&theme=solarized-light&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One-HyeWon&theme=solarized-light&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One-HyeWon&theme=solarized-light&layout=compact&hide=jupyter%20notebook)
 
 ### 📍 Main Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leets-2nd-Email&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
