@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 </div>
     
 
@@ -31,11 +30,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One-HyeWon&theme=solarized-light&layout=compact&hide=jupyter%20notebook)
 
 ### 📍 Main Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=level2-cv-semanticsegmentation-cv-8-lv3&theme=solarized-light)](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-8-lv3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=level2-objectdetection-cv-13&theme=solarized-light)](https://github.com/boostcampaitech7/level2-objectdetection-cv-13)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leets-2nd-Email&theme=solarized-light)](https://github.com/Leets-Official/Leets-2nd-Email)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=WeNeed-FE&theme=solarized-light)](https://github.com/Leets-Official/WeNeed-FE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=Leetalk-FE&theme=solarized-light)](https://github.com/Leets-Official/Leetalk-FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=One-HyeWon&repo=MoodMate-FE&theme=solarized-light)](https://github.com/Leets-Official/MoodMate-FE)
 
 
